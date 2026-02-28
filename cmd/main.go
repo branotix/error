@@ -12,11 +12,12 @@ func NotNegative(x int) (int, error) {
 	return x * x, nil
 }
 func main() {
-	val, err := NotNegative(-1)
+	val, err := NotNegative(1)
 
 	if err != nil {
 		fmt.Println("error occured")
 		return
 	}
 	fmt.Println(val)
+	fmt.Println("Hello pulock just i am test")
 }
