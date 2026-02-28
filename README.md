@@ -28,13 +28,7 @@
 | **জীবনের লক্ষ্য** | একটি ভালো কাজের সুযোগ এবং সুন্দর জীবন | মানুষের কমান্ড পালন করা এবং ভ্যালু এড করা |
 
 
-| Method | Endpoint         | Description         |
-| ------ | ---------------- | ------------------- |
-| GET    | `/`              | Health check        |
-| POST   | `/auth/register` | Register a new user |
-| POST   | `/auth/login`    | Login and get token |
-
-## Amar prothom code 
+## আমার জীবনের প্রথম কোড 
 
 ```C program
 #include <stdio.h>
