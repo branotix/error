@@ -26,3 +26,10 @@
 | GET    | `/`              | Health check        |
 | POST   | `/auth/register` | Register a new user |
 | POST   | `/auth/login`    | Login and get token |
+
+## Amar prothom code 
+
+```C program
+int main(){
+    printf("Hello Word!");
+}```
