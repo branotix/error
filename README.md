@@ -15,6 +15,17 @@
 
 ## Pulock Kumar vs AI table 
 
-|   Pulock Kumar    |                         AI  |
- ------------------   ----------------------------
-| Jani na table kemon hobe | Jani table valo hobe |
+| Pulock Kumar             | AI                            |
+| ------------------------ | ------------------------------|
+| Jani na table kemon hobe | Jani table valo hobe eta jana |
+| ------------------------ | ----------------------------- |
+| sotti bolte eta kothin   | na eta amar akce sohoj        |
+| ------------------------ | ----------------------------- |
+| ami to ar ai na ami man  | hoy ami ai amar power automa  |
+| ------------------------ | ----------------------------- |
+
+| Method | Endpoint         | Description         |
+| ------ | ---------------- | ------------------- |
+| GET    | `/`              | Health check        |
+| POST   | `/auth/register` | Register a new user |
+| POST   | `/auth/login`    | Login and get token |
