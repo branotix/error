@@ -12,3 +12,9 @@
 - **Linkdin Link** [Click Here](www.linkdin.com/branotix)
 - **X Link** [Click Here](www.twitter.com/branotix)
 - **Youtube Link** [Click Here](www.youtube.com/branotix)
+
+## Pulock Kumar vs AI table 
+
+|   Pulock Kumar    |                         AI  |
+ ------------------   ----------------------------
+| Jani na table kemon hobe | Jani table valo hobe |
