@@ -30,6 +30,11 @@
 ## Amar prothom code 
 
 ```C program
+#include <stdio.h>
+
 int main(){
     printf("Hello Word!");
-}```
+    printf("Pulock you are so clever");
+}
+```
+
